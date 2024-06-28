@@ -22,7 +22,7 @@ This project demonstrates a simple HTTP proxy server built using Rust's `warp` a
 
 ## Usage
 
-Run the proxy server with the base URL as an argument:
+Run the proxy server with the base URL as an argument, for instance:
 ```sh
 cargo run http://localhost:1234
 ```
