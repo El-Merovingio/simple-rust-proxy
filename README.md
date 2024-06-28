@@ -27,4 +27,4 @@ Run the proxy server with the base URL as an argument:
 cargo run http://localhost:1234
 ```
 
-Browse to `http://localhost:3030` 
+Browse to `http://<Your_IP>:3030` 
